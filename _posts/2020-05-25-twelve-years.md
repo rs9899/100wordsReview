@@ -33,3 +33,7 @@ rated R for violence and cruelty.
 
 
 
+> Thanks for reading ❤
+
+
+

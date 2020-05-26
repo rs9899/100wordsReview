@@ -31,3 +31,7 @@ the lines are from Alexander Pope's poem "Eloisa to Abelard"
 * Cover Image credit : [Vanity Fair](https://media.vanityfair.com/photos/57f90a5e0c3020dd42f7852a/5:3/w_1200,h_720,c_limit/eternal-sunshine-of-the-spotless-mind.jpg)
 * [IMDb](https://www.imdb.com/title/tt0338013) rank 96 at the time of the review
 
+
+
+> Thanks for reading ❤
+
