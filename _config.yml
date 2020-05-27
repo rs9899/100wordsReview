@@ -12,7 +12,8 @@ author: Rupesh
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-#   About Me: "aboutme"
+#   About Me: "aboutme" 
+  Index: "indexing" 
   Author's home: "https://rs9899.github.io/"
 
 # --- Logo --- #
