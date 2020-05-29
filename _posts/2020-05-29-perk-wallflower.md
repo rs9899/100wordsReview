@@ -16,7 +16,7 @@ Read the book too.
 
 
 ### Trivia
-* ***Stephen Chbosky wrote the book that the movie is based on. He also wrote the screenplay and directed the movie..***
+* ***Stephen Chbosky wrote the book that the movie is based on. He also wrote the screenplay and directed the movie.***
 * ***Ezra Miller did his initial audition for the film over Skype.***
 * ***The first major role, post-Harry Potter, for Emma Watson.***
 
