@@ -14,7 +14,8 @@ author: Rupesh
 navbar-links:
 #   About Me: "aboutme" 
   Index: "indexing" 
-  Author's home: "https://rs9899.github.io/"
+  Author's home: "https://rupesh.info/"
+  About: "https://100wordsreview.com/2020-05-24-intro/"
 
 # --- Logo --- #
 
@@ -103,7 +104,7 @@ footer-link-col: "#404040"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-147852058-1"
+google_analytics: "UA-168106659-1"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -122,7 +123,7 @@ google_analytics: "UA-147852058-1"
 #disqus: ""
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
-fb_comment_id: "212790369252105"
+fb_comment_id: "293569268468085"
 
 # To use Utterances comments: (0) uncomment the following section, (1) fill in
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,
