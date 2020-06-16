@@ -5,7 +5,7 @@ cover-img: /moviePoster/earth.jpg
 tags: [movies]
 ---
 
-Have you ever thought, what the story of an immortal human being? An episode of star trek tried capturing with an idea that Solomon, DaVinci .. and many of the people were just the same immortal person. The writer of that episode took the idea a bit longer and made a story, his masterpiece. After his death, they made this movie on that story. 
+Have you ever thought, what the story of an immortal human being? An episode of star trek tried capturing with an idea that Solomon, DaVinci .. and many of the people were just the same immortal person. The writer of that episode took the idea a bit longer and made a story, his masterpiece. After his death, they made a movie on that story. 
 
 This is that movie. It's a plain movie telling a story. Restricted to just one home, this movie was shot in 7 days and captures the excellence that can be achieved by a great story and story-telling.
 
