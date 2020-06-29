@@ -5,6 +5,10 @@ cover-img: /moviePoster/requiem.png
 tags: [movies]
 ---
 
+Coming from a director who is famous for adding a dark touch to his movies, this is the one whose poster you will find in every college movie club. Based on a book of the same name, this movie sure keeps you hooked.
+
+And the strongest point of this movie is the editing. Beginning with a scene in split screen view gives the idea that you are about to see some really good story-telling. The hip-hop montages during the drug scenes gives you a  sense of overwhelming addiction and loss of control. Plus, this was the movie for which the song "Lux Aeterna" was composed.
+
 
 
 ## Trivia
