@@ -15,7 +15,8 @@ navbar-links:
 #   About Me: "aboutme" 
   Index: "indexing" 
   Author's home: "https://rupesh.info/"
-  About: "https://100wordsreview.com/2020-05-24-intro/"
+  About: "/2020-05-24-intro"
+  🔍: "search"
 
 # --- Logo --- #
 

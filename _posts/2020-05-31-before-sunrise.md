@@ -22,7 +22,7 @@ Add to this the beauty of Vienna and you have a movie that is calm and beautiful
 * ***Why do I make everything so complicated?***
 
 ### Other Links
-* Cover Image credit : [HuffPost](https://img.huffingtonpost.com/asset/5bb49916220000ba01dc2840.jpeg)
+* Cover Image credit : [Literary Hub](https://s26162.pcdn.co/wp-content/uploads/2019/03/linklater_before.jpeg)
 * [IMDb](https://www.imdb.com/title/tt0112471/) rank 193 at the time of the review
 
 
