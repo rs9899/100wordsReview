@@ -5,7 +5,17 @@ cover-img: /moviePoster/your-name.jpg
 tags: [movies]
 ---
 
-// Todo
+
+Inspired by interstellar, this movie has a theme that love as force can break the rules on science.
+
+Trying to keep the spoiler at the lowest, the basis of this movie is that there are 2 teenagers who get
+connected through a weird way of communication and through this get to know each other. More like a sci-fi version
+of a Long-distance relationship.
+
+The story is great with an excellent background score and cinematography. Though an animation in Japanese, it never feels
+like a barrier in the movie experience and will actually tell you a lot about both rural and ritual based side, & urban
+fast-paced side of Japan.
+
 
 ### Trivia
 * ***Mitsuha's name means "three leaves" and follows a family trait. 
