@@ -24,8 +24,8 @@ makes a very sensitive topic to watch and feel the pain. Because all of this is 
 
 ### Quotes
 * ***It was the battle between the handsome good guy and the ugly bad guy.***
-* ***Hoods don't love, they desire </br>
- Hoods don't talk, they smooth-talk </br>
+* ***Hoods don't love, they desire <br /> 
+ Hoods don't talk, they smooth-talk <br /> 
  Hoods don't stop, they take a break*** 
 
 
