@@ -2,6 +2,7 @@
 layout: post
 title: City of God
 cover-img: /moviePoster/city-of-god.jpg
+share-img: https://100wordsreview.com//moviePoster/city-of-god.jpg
 tags: [movies]
 ---
 
