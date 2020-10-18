@@ -2,6 +2,7 @@
 layout: post
 title: Kimi no Na wa
 cover-img: /moviePoster/your-name.jpg
+show-avatar: false
 tags: [movies]
 ---
 
