@@ -2,6 +2,8 @@
 layout: post
 title: Grave of the Fireflies
 cover-img: /moviePoster/grave-of-the-fireflies.jpg
+share-img: https://100wordsreview.com//moviePoster/grave-of-the-fireflies.jpg
+
 tags: [movies]
 ---
 
