@@ -7,7 +7,11 @@ share-img: https://100wordsreview.com//moviePoster/capharnaum.jpg
 tags: [movies]
 ---
 
+A movie with a clear aim to tell a story. A story that is real and a story that is deserved to be heard. A story that is actually very similar to the real life 
+experiences of the actors involved in the movie. And when you are telling your own story, you tell it so fucking well.
 
+A small child sharing the issue he has faced being born in a poor household in a country where income disparity is the worst. They live as bugs in the city and the mental state 
+of these people are so so disheartening. But all this makes the movie so true to its purpose, sharing a story
 
 ### Trivia
 * ***The title, Capernaum, can mean 'chaos' in Arabic.***
